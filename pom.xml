@@ -3,8 +3,8 @@
   <groupId>SeleMaven</groupId>
   <artifactId>SeleMavenProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <configuration>
-    <source>1.6</source>
-    <target>1.6</target>
-  </configuration>
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+</properties>
 </project>
